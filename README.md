@@ -1,2 +1,2 @@
-# OS-Assignments-New
-Operating Systems Assignments of Indraprastha Institute of Information Technology
+# Operating Systems Assignments
+Operating Systems Assignments of <a href="https://iiitd.ac.in/">Indraprastha Institute of Information Technology</a>
