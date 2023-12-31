@@ -46,6 +46,8 @@ Refer attached image:
 This module is licensed under the GNU General Public License (GPL).
 <h3>
 Author</h3>
-Anushka-Vikranth
+Vikranth
+<br>
+Anushka
 
 </html>
