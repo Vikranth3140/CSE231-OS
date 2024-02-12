@@ -1,6 +1,7 @@
 # CSE 231 : Operating System
 
 [Course Description](https://techtree.iiitd.edu.in/viewDescription/filename?=CSE231)
+\
 This repository comprises 4 operating system assignments completed during Semester 4 at <a href="https://iiitd.ac.in/">Indraprastha Institute of Information Technology</a>.
 \
 Each assignment folder contains a detailed README providing specific information about the assignment, contributions, and related files.
